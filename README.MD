@@ -1,6 +1,6 @@
 
-### CopyRights
-This package is based on and adapted from the work and research of Dennis Paulino (https://github.com/dennispaulino/TaskFingerprintingForCognitivePersonalizationOfWebTasksDesignPackage) and in the paper (https://www.mdpi.com/1424-8220/23/7/3571) on context of HciLab of INESC TEC and UTAD.
+### (c) CopyRights
+This package is based on and adapted from the Dennis Lourenço Paulino's work and research (https://github.com/dennispaulino/TaskFingerprintingForCognitivePersonalizationOfWebTasksDesignPackage) and in the paper (https://www.mdpi.com/1424-8220/23/7/3571) on context of HciLab of INESC TEC and UTAD.
 
 
 
