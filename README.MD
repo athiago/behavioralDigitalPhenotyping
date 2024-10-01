@@ -1,13 +1,13 @@
 
 ### (c) CopyRights
-This package is based on and adapted from the Dennis Lourenço Paulino's work and research (https://github.com/dennispaulino/TaskFingerprintingForCognitivePersonalizationOfWebTasksDesignPackage) and in the paper (https://www.mdpi.com/1424-8220/23/7/3571) on context of HciLab of INESC TEC and UTAD.
+This package is based on and adapted from the work and research of Dennis Lourenço Paulino (https://github.com/dennispaulino/TaskFingerprintingForCognitivePersonalizationOfWebTasksDesignPackage) and the paper (https://www.mdpi.com/1424-8220/23/7/3571) on the context of HCILab of INESC TEC and UTAD.
 
 
 
 
 # Behavioral Digital Phenotyping Library
 
-A collection of procedures that can provide valuable information on how the user behaves in a website. The library records things like:
+A collection of procedures that can provide valuable insight into the user's behavior on a given website. The library records a variety of data points, including:
 
 - General user information
 - Time spent on site
@@ -89,7 +89,7 @@ If these values are not provided, defaults are used:
 }
 ```
 ### What to do with the information acquired
-You will need to provide in the init object a processData function, this function can contain an AJAX call to a back end service that can do further processing with the information acquired.
+It is necessary to provide an init object with a processData function. This function may contain an AJAX call to a back-end service that can perform additional processing on the acquired information.
 ```javascript
 {
     processData: function(results){
