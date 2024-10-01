@@ -20,10 +20,10 @@ A collection of procedures that can provide valuable information on how the user
 - Key Logger that detects key presses and pasted data information
 
 ## Getting Started
-Add userbehavior.js to your site
+Add behaviorPhenotyping.js to your site
 
 ```html
-<script src="userbehavior.js"></script>
+<script src="behaviorPhenotyping.js"></script>
 ```
 
 and init with defaults
