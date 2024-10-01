@@ -1,3 +1,7 @@
+
+# CopyRights
+This package is based on and adapted from https://github.com/dennispaulino/TaskFingerprintingForCognitivePersonalizationOfWebTasksDesignPackage
+
 # User Behavior Library
 
 A collection of procedures that can provide valuable information on how the user behaves in a website. The library records things like:
