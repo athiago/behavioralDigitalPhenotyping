@@ -3,7 +3,7 @@
 This package is based on and adapted from the work and research of Dennis Paulino (https://github.com/dennispaulino/TaskFingerprintingForCognitivePersonalizationOfWebTasksDesignPackage) and in the paper (https://www.mdpi.com/1424-8220/23/7/3571).
 
 
-## User Behavior Library
+## Behavioral Digital Phenotyping Library
 
 A collection of procedures that can provide valuable information on how the user behaves in a website. The library records things like:
 
